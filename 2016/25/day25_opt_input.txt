@@ -1,0 +1,8 @@
+add 2538 a
+cpy a b			; $
+cpy b c			; @
+mod 2 c
+out c
+div 2 b
+jnz b -4		; 3: @
+jmp -6			; 2: $
