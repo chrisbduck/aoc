@@ -8,7 +8,7 @@
 			"type": "shell",
 			"command": "./build",
 			"options": {
-                "cwd": "${workspaceRoot}/2017/03"
+                "cwd": "${workspaceRoot}/2017/13"
             },
 		}
 	]

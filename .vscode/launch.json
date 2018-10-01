@@ -11,7 +11,7 @@
 			"program": "./spiralmem",
 			"args": [],
 			"stopAtEntry": false,
-			"cwd": "${workspaceRoot}/2017/03",
+			"cwd": "${workspaceRoot}/2017/13",
 			"environment": [],
 			"externalConsole": true,
 			"MIMode": "gdb",
