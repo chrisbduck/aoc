@@ -1,2 +1,3 @@
 #!/bin/bash
-clang++ -std=c++17 spiralmemory.cpp
+clang++ -std=c++17 -g spiralmemory.cpp -ospiralmem
+
